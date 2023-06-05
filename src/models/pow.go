@@ -7,7 +7,7 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/Asthay27/blockchain_go/src/utils"
+	"github.com/Asthay27/go_scratch/src/utils"
 )
 
 var (

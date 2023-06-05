@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/Asthay27/blockchain_go/src/middleware"
+	"github.com/Asthay27/go_scratch/src/middleware"
 	"github.com/boltdb/bolt"
 )
 

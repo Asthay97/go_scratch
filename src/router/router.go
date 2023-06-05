@@ -1,7 +1,7 @@
 package router
 
 import (
-	"github.com/Asthay27/blockchain_go/src/handlers"
+	"github.com/Asthay27/go_scratch/src/handlers"
 	"github.com/gorilla/mux"
 )
 

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/Asthay27/blockchain_go/src/models"
+	"github.com/Asthay27/go_scratch/src/models"
 )
 
 type ReindexUTXORequest struct {

@@ -1,8 +1,8 @@
 build:
-	go build -o ./bin/blockchain_go
+	go build -o ./bin/go_scratch
 
 run: build
-	./bin/blockchain_go
+	./bin/go_scratch
 
 test:
 	go test ./...

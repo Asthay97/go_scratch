@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/Asthay27/blockchain_go/src/router"
+	"github.com/Asthay27/go_scratch/src/router"
 )
 
 func main() {

@@ -6,8 +6,8 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/Asthay27/blockchain_go/src/middleware"
-	"github.com/Asthay27/blockchain_go/src/utils"
+	"github.com/Asthay27/go_scratch/src/middleware"
+	"github.com/Asthay27/go_scratch/src/utils"
 	"github.com/boltdb/bolt"
 )
 
